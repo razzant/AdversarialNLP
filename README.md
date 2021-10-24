@@ -13,5 +13,8 @@ The proposed algorithm is suitable for any deep text classifier.
 * transformers 4.6.1
 
 
+### How to use:
+Run all cells in Attack_on_RoBerta.ipynb notebook.
+
 ## Example
 ![Adversarial Detoxification Example](https://github.com/razzant/AdversarialNLP/blob/main/example.png)
